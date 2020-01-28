@@ -36,8 +36,7 @@ tester.add_item(4, "carrots", 4)
   
 end 
 
-tester = CashRegister.new 
-tester.add_item(4, "carrots", 4)
+
 
 
   
