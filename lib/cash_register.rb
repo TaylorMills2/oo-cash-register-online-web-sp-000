@@ -26,8 +26,8 @@ class CashRegister
   end
   
   def items 
-  # (self).items!?
-  # returns an array containing all items that have been added
+  tester = CashRegister.new 
+tester.add_item(4, "carrots", 4)
   end
   
   def void_last_transaction
