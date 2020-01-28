@@ -31,7 +31,7 @@ tester.add_item(4, "carrots", 4)
   end
   
   def void_last_transaction
-  # (cash_register.total).to eq(0.99) 
+   
   end 
   
 end 
