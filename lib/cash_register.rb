@@ -31,7 +31,7 @@ tester.add_item(4, "carrots", 4)
   end
   
   def void_last_transaction
-   
+  @total -= @price 
   end 
   
 end 
